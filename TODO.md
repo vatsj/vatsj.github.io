@@ -1,0 +1,3 @@
+- add basic intro/personal info
+- add list of projects
+- add nice links to github, linkedin, overleaf?, etc
