@@ -26,6 +26,12 @@ production_url : https://vatsj.github.io/
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
 markdown: kramdown
 
+# Jekyll settings
+theme: jekyll-theme-cayman
+# theme: minima
+plugins:
+  - jekyll-feed
+
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
