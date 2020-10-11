@@ -19,7 +19,7 @@ author :
   # twitter : n o p e
   feedburner : nil
 description : >- # this means to ignore newlines until "baseurl:"
-  A compendium of the self
+  A Compendium of the Self
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # NOTE: Replacing this next line with your own URL
