@@ -18,7 +18,9 @@ author :
   github : vatsj
   # twitter : n o p e
   feedburner : nil
-description: >- A compendium of my internet self
+description: >- # this means to ignore newlines until "baseurl:"
+  A compendium of my internet self
+baseurl: "" # the subpath of your site, e.g. /blog
 
 # NOTE: Replacing this next line with your own URL
 production_url : https://vatsj.github.io/
