@@ -12,3 +12,7 @@ The site is built using github pages. See their documentation for a better descr
 ### How to run
 To run, use the following bash command:
 > bundle exec jekyll serve
+
+Alternatively, you can use raw Jekyll (instead of using bundle as a wrapper) with the following commands
+> jekyll build
+> jekyll serve

@@ -1,3 +1,1 @@
-- add basic intro/personal info
-- add list of projects
-- add nice links to github, linkedin, overleaf?, etc
+- make overleaf info auto-update from website
