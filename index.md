@@ -4,7 +4,7 @@ layout: default
 <!-- title: simple site
 tagline: Easy websites with GitHub Pages
 description: Minimal tutorial on making a simple website with GitHub Pages -->
-<!-- Jekyll default header? .md header? no idea...-->
+<!-- .md default header (I think), example above -->
 
 <!--
 main page of website
@@ -36,4 +36,4 @@ During high school ([Montgomery Blair HS](https://mbhs.edu/)), I was a member an
 - [Large Number Game](res/Large_Numbers.pdf)
 
 ### Magnet Survey
-This fall (2020), I worked with fellow Magnet alumni [Laura Cui](https://reionize.github.io/) and [Steven Qu](http://www.xrsqu.com/) to design and take a survey of students' experiences in the STEM Magnet program. Our results are available [here](https://drive.google.com/drive/folders/1oLIlN4I1W-nN9r-OgZGWCubeCtivVRLK?usp=sharing).
+This fall (2020), I worked with fellow Magnet alumni [Laura Cui](https://reionize.github.io/) and [Steven Qu](http://www.xrsqu.com/) to design and take a survey of students' experiences in the STEM Magnet program. Our results are available [here](https://drive.google.com/drive/folders/1oLIlN4I1W-nN9r-OgZGWCubeCtivVRLK?usp=sharing), or see the [Magnet Foundation press release](http://www.mbhsmagnet.org/news/fall20/alumni-survey).
