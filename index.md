@@ -28,12 +28,7 @@ During Winter 2019-20, I studied Algebraic Topology ([Hatcher](https://pi.math.c
 ## Commitment-bot
 To help my friends in a discord server set personal goals, I coded a [bot](https://github.com/vatsj/commitment-bot) to let users set and evaluate personal goals.
 
-## [Montgomery Blair HS](https://mbhs.edu/)
-
-### MBHS Math Team
-During high school, I was a member and later co-captain of the [Blair Math Team](https://twitter.com/mbhsmathteam?lang=en). For our weekly lectures (and random other reasons), I wrote up notes on various math topics, with a specific focus on audience participation and making learning fun. Some highlights are listed below:
+## MBHS Math Team
+During high school ([Montgomery Blair HS](https://mbhs.edu/)), I was a member and later co-captain of the [Blair Math Team](https://twitter.com/mbhsmathteam?lang=en). For our weekly lectures (and random other reasons), I wrote up notes on various math topics, with a specific focus on audience participation and making learning fun. Some highlights are listed below:
 - [Football](res/Football.pdf)
 - [Large Number Game](res/Large_Numbers.pdf)
-
-### Magnet Survey
-This fall (2020), I worked with fellow Magnet alumni [Laura Cui](https://reionize.github.io/) and [Steven Qu](http://www.xrsqu.com/) to design and take a survey of students' experiences in the STEM Magnet program. Our results are available [here](https://drive.google.com/drive/folders/1oLIlN4I1W-nN9r-OgZGWCubeCtivVRLK?usp=sharing).
