@@ -23,7 +23,7 @@ In 2019, I interned with [ASR Analytics](https://www.asranalytics.com/), develop
 
 In 2018, I participated in the [University of Maryland REU Program](http://www.cs.umd.edu/projects/reucaar/index.html), researching a finite graph approach to the Hadwiger-Nelson problem ([preprint](https://arxiv.org/abs/2008.07987) of our paper).
 
-# Projects
+# Research
 
 ## [SERI](https://cisac.fsi.stanford.edu/stanford-existential-risks-initiative/content/stanford-existential-risks-initiative)
 During Winter and Spring 2021, I researched the Outer AI Alignment problem under the mentorship of [Alex Turner](https://www.linkedin.com/in/alexandermattturner/), extending Turner's definition of [POWER](https://www.lesswrong.com/s/7CdoznhJaLEKHwvJW/p/6DuJxY8X45Sco4bS2) to multi-agent games. I presented this research at the [Winter](https://docs.google.com/presentation/d/1VXlzPB9OGyiNbS4-hkJArUdtocKn1hp8x3Ig17wQ_dI/edit?usp=sharing) and [Spring](https://docs.google.com/presentation/d/1pvcZfX3rDiwUdbZlsI4R2uHRpbuuLFwL27xk-6LKRpU/edit?usp=sharing) SERI conferences as well as coauthoring several [blog posts](https://www.lesswrong.com/users/midco) as informal writeups.
@@ -31,8 +31,13 @@ During Winter and Spring 2021, I researched the Outer AI Alignment problem under
 ## Stanford DRP
 During Winter 2019-20, I studied Algebraic Topology ([Hatcher](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf)) under the mentorship of [Joseph Helfer](http://web.stanford.edu/~joj/). I also gave a talk presenting the topic to undergraduate students ([slides](https://docs.google.com/presentation/d/10HAyP_gTQvZOSyaA1bIC1VgTaTGF1c6Ry8QnohF-6VM/edit?usp=sharing)).
 
+# Projects
+
 ## Commitment-bot
 To help my friends in a discord server set personal goals, I coded a [bot](https://github.com/vatsj/commitment-bot) to let users set and evaluate personal goals.
+
+## D&D Campaign
+I got bored one day and wrote the outline for a Dungeons & Dragons campaign, which you can read [here](https://www.notion.so/D-D-Campaign-God-in-the-Machine-a20c74b3815841ba8ee846de45c7e80b). Taking inspiration from [TAZ Balance](https://theadventurezone.fandom.com/wiki/Campaign_1:_The_Balance_Arc), my outline plays fast and loose with D&D structure/mechanics in favor of a storytelling-centric approach.
 
 <!-- ## Gamer-bot
 In an effort to teach myself Reinforcement Learning techniques through game-playing, I wrote a [general framework](https://github.com/vatsj/gamer-bot) for algorithmic multiplayer game-playing. Alice (my alpha-beta pruning algorithm with clever tweaks, named in honor of cryptographic legends Alice and Bob) can tie me at tic-tac-toe, but not at chess. -->
