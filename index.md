@@ -34,7 +34,7 @@ During Winter 2019-20, I studied Algebraic Topology ([Hatcher](https://pi.math.c
 # Projects
 
 ## Commitment-bot
-To help my friends in a discord server set personal goals, I coded a [bot](https://github.com/vatsj/commitment-bot) to let users set and evaluate personal goals.
+To help my friends in a discord server set personal goals, I coded a [bot](https://github.com/vatsj/commitment-bot) to let users set and evaluate time-bound goals.
 
 ## D&D Campaign
 I got bored one day and wrote the outline for a Dungeons & Dragons campaign, which you can read [here](https://www.notion.so/D-D-Campaign-God-in-the-Machine-a20c74b3815841ba8ee846de45c7e80b). Taking inspiration from [TAZ Balance](https://theadventurezone.fandom.com/wiki/Campaign_1:_The_Balance_Arc), my outline plays fast and loose with D&D structure/mechanics in favor of a storytelling-centric approach.
@@ -42,12 +42,12 @@ I got bored one day and wrote the outline for a Dungeons & Dragons campaign, whi
 <!-- ## Gamer-bot
 In an effort to teach myself Reinforcement Learning techniques through game-playing, I wrote a [general framework](https://github.com/vatsj/gamer-bot) for algorithmic multiplayer game-playing. Alice (my alpha-beta pruning algorithm with clever tweaks, named in honor of cryptographic legends Alice and Bob) can tie me at tic-tac-toe, but not at chess. -->
 
-## [Montgomery Blair HS](https://mbhs.edu/)
+# [Montgomery Blair HS](https://mbhs.edu/)
 
 ## MBHS Math Team
 During high school ([Montgomery Blair HS](https://mbhs.edu/)), I was a member and later co-captain of the [Blair Math Team](https://twitter.com/mbhsmathteam?lang=en). For our weekly lectures (and random other reasons), I wrote up notes on various math topics, with a specific focus on audience participation and making learning fun. Some highlights are listed below:
 - [Football](https://www.overleaf.com/read/tpjyrjdkywnv)
 - [Large Number Game](https://www.overleaf.com/read/skwwxmnqcftz)
 
-### Magnet Survey
+## Magnet Survey
 During Fall 2020, I worked with fellow Magnet alumni [Laura Cui](https://reionize.github.io/) and [Steven Qu](http://www.xrsqu.com/) to design and take a survey of students' experiences in the STEM Magnet program. Our results are available [here](https://drive.google.com/drive/folders/1oLIlN4I1W-nN9r-OgZGWCubeCtivVRLK?usp=sharing), or see the [Magnet Foundation press release](http://www.mbhsmagnet.org/news/fall20/alumni-survey).
