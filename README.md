@@ -2,7 +2,7 @@
 
 Meant primarily to host my resume/CV/jobby stuff, also a nice place to store personal projects.
 
-The site is built using [github pages](https://pages.github.com/). See their documentation for a better description than this one.
+The site is built using [github pages](https://pages.github.com/) using the "cayman" theme. See their documentation for a better description than this one.
 
 ## Dependencies
 - Jekyll (https://jekyllrb.com/, requires ruby install)

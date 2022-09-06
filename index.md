@@ -10,18 +10,20 @@ https://vatsj.github.io/
  -->
 
 # About
-Hi! I'm Jacob, a junior at [Stanford University](https://www.stanford.edu/) studying Math and Computer Science. My academic interests are broad, ranging from machine learning and software development to data science and quantitative trading. In my free time, I swim, listen to [podcasts](https://maximumfun.org/podcasts/adventure-zone/), and discover new and inventive ways to break my code.
+Hi! I'm Jacob, a senior at [Stanford University](https://www.stanford.edu/) studying Math and Computer Science. My academic interests are broad, ranging from machine learning and software development to data science and quantitative trading. In my free time, I swim, listen to [podcasts](https://maximumfun.org/podcasts/adventure-zone/), and discover new and inventive ways to break my code.
 
-Here are my things: [resume](res/resume.pdf), [github](https://github.com/vatsj), [linkedin](https://bit.ly/vatsj-linkedin)
+Here are links to my [resume](res/resume.pdf), [github](https://github.com/vatsj), and [linkedin](https://bit.ly/vatsj-linkedin).
 
 # Work Experience
-During Summer 2021, I interned with [Five Rings Capital](https://fiverings.com/), completing a research project under the mentorship of a full-time Quantitative Researcher and competing against other interns in (proprietary) training games.
+During Summer 2022, I interned with [Jane Street](https://www.janestreet.com/) and ~~played [figgie](https://figgie.com/) all day~~ used a diverse software suite (python, excel, bloomberg, SQL) to research and develop trading strategies.
+
+In 2021, I interned with [Five Rings Capital](https://fiverings.com/), researching under the mentorship of a full-time quant and competing in proprietary training games.
 
 In 2020, I worked at the [Openproof Foundation](https://openproof.gradegrinder.net/), developing a node.js frontend for mathematical logic courseware.
 
 In 2019, I interned with [ASR Analytics](https://www.asranalytics.com/), developing a graph-based recommender engine to inform IRS tax compliance interventions.
 
-In 2018, I participated in the [University of Maryland REU Program](http://www.cs.umd.edu/projects/reucaar/index.html), researching a finite graph approach to the Hadwiger-Nelson problem ([preprint](https://arxiv.org/abs/2008.07987) of our paper).
+In 2018, I participated in the [University of Maryland REU Program](http://www.cs.umd.edu/projects/reucaar/index.html), researching a finite graph approach to the Hadwiger-Nelson problem. The resulting [paper](https://arxiv.org/abs/2008.07987) was published in the journal [Geombinatorics](https://geombina.uccs.edu/past-issues/volume-xxxii).
 
 # Research
 
@@ -31,13 +33,13 @@ During Winter and Spring 2021, I researched the Outer AI Alignment problem under
 ## Stanford DRP
 During Winter 2019-20, I studied Algebraic Topology ([Hatcher](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf)) under the mentorship of [Joseph Helfer](http://web.stanford.edu/~joj/). I also gave a talk presenting the topic to undergraduate students ([slides](https://docs.google.com/presentation/d/10HAyP_gTQvZOSyaA1bIC1VgTaTGF1c6Ry8QnohF-6VM/edit?usp=sharing)).
 
-# Projects
+<!-- # Projects
 
 ## Commitment-bot
 To help my friends in a discord server set personal goals, I coded a [bot](https://github.com/vatsj/commitment-bot) to let users set and evaluate time-bound goals.
 
 ## D&D Campaign
-I got bored one day and wrote the outline for a Dungeons & Dragons campaign, which you can read [here](https://www.notion.so/D-D-Campaign-God-in-the-Machine-a20c74b3815841ba8ee846de45c7e80b). Taking inspiration from [TAZ Balance](https://theadventurezone.fandom.com/wiki/Campaign_1:_The_Balance_Arc), my outline plays fast and loose with D&D structure/mechanics in favor of a storytelling-centric approach.
+I got bored one day and wrote the outline for a Dungeons & Dragons campaign, which you can read [here](https://www.notion.so/D-D-Campaign-God-in-the-Machine-a20c74b3815841ba8ee846de45c7e80b). Taking inspiration from [TAZ Balance](https://theadventurezone.fandom.com/wiki/Campaign_1:_The_Balance_Arc), my outline plays fast and loose with D&D structure/mechanics in favor of a storytelling-centric approach. -->
 
 <!-- ## Gamer-bot
 In an effort to teach myself Reinforcement Learning techniques through game-playing, I wrote a [general framework](https://github.com/vatsj/gamer-bot) for algorithmic multiplayer game-playing. Alice (my alpha-beta pruning algorithm with clever tweaks, named in honor of cryptographic legends Alice and Bob) can tie me at tic-tac-toe, but not at chess. -->
@@ -50,4 +52,8 @@ During high school ([Montgomery Blair HS](https://mbhs.edu/)), I was a member an
 - [Large Number Game](https://www.overleaf.com/read/skwwxmnqcftz)
 
 ## Magnet Survey
-During Fall 2020, I worked with fellow Magnet alumni [Laura Cui](https://reionize.github.io/) and [Steven Qu](http://www.xrsqu.com/) to design and take a survey of students' experiences in the STEM Magnet program. Our results are available [here](https://drive.google.com/drive/folders/1oLIlN4I1W-nN9r-OgZGWCubeCtivVRLK?usp=sharing), or see the [Magnet Foundation press release](http://www.mbhsmagnet.org/news/fall20/alumni-survey).
+During Fall 2020, I worked with fellow Magnet alumni [Laura Cui](https://reionize.github.io/) and [Steven Qu](http://www.xrsqu.com/) to design and take a survey of students' experiences in the STEM Magnet program. Our results are available [here](https://drive.google.com/drive/folders/1oLIlN4I1W-nN9r-OgZGWCubeCtivVRLK?usp=sharing), or see the [Magnet Foundation press release](https://www.mbhsmagnet.org/news/fall20/surveying-recent-alumni-and-students-on-magnet-experiences).
+
+# Miscellaneous projects
+- A [D&D campaign module](https://www.notion.so/D-D-Campaign-God-in-the-Machine-a20c74b3815841ba8ee846de45c7e80b)), designed for storytelling in the style of [TAZ Balance](https://theadventurezone.fandom.com/wiki/Campaign_1:_The_Balance_Arc)
+- [Meta-chess](https://www.overleaf.com/read/hshwfqvhtgcj), a team-based strategy game designed for a group of chess enthusiasts. I planned to organize a game at [Mathcamp](https://www.mathcamp.org/) but never got around to it :(
