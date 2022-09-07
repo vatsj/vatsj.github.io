@@ -28,7 +28,7 @@ In 2018, I participated in the [University of Maryland REU Program](http://www.c
 # Research
 
 ## [SERI](https://cisac.fsi.stanford.edu/stanford-existential-risks-initiative/content/stanford-existential-risks-initiative)
-During Winter and Spring 2021, I researched the Outer AI Alignment problem under the mentorship of [Alex Turner](https://www.linkedin.com/in/alexandermattturner/), extending Turner's definition of [POWER](https://www.lesswrong.com/s/7CdoznhJaLEKHwvJW/p/6DuJxY8X45Sco4bS2) to multi-agent games. I presented this research at the [Winter](https://docs.google.com/presentation/d/1VXlzPB9OGyiNbS4-hkJArUdtocKn1hp8x3Ig17wQ_dI/edit?usp=sharing) and [Spring](https://docs.google.com/presentation/d/1pvcZfX3rDiwUdbZlsI4R2uHRpbuuLFwL27xk-6LKRpU/edit?usp=sharing) SERI conferences as well as coauthoring several [blog posts](https://www.lesswrong.com/users/midco) as informal writeups.
+During Winter and Spring 2021, I researched the Outer AI Alignment problem under the mentorship of [Alex Turner](https://www.linkedin.com/in/alexandermattturner/), extending Turner's definition of [POWER](https://www.lesswrong.com/s/7CdoznhJaLEKHwvJW/p/6DuJxY8X45Sco4bS2) to multi-agent games. I presented at the [Winter](https://docs.google.com/presentation/d/1VXlzPB9OGyiNbS4-hkJArUdtocKn1hp8x3Ig17wQ_dI/edit?usp=sharing) and [Spring](https://docs.google.com/presentation/d/1pvcZfX3rDiwUdbZlsI4R2uHRpbuuLFwL27xk-6LKRpU/edit?usp=sharing) SERI conferences and coauthored several [blog posts](https://www.lesswrong.com/users/midco) as informal writeups.
 
 ## Stanford DRP
 During Winter 2019-20, I studied Algebraic Topology ([Hatcher](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf)) under the mentorship of [Joseph Helfer](http://web.stanford.edu/~joj/). I also gave a talk presenting the topic to undergraduate students ([slides](https://docs.google.com/presentation/d/10HAyP_gTQvZOSyaA1bIC1VgTaTGF1c6Ry8QnohF-6VM/edit?usp=sharing)).
@@ -47,7 +47,7 @@ In an effort to teach myself Reinforcement Learning techniques through game-play
 # [Montgomery Blair HS](https://mbhs.edu/)
 
 ## MBHS Math Team
-During high school ([Montgomery Blair HS](https://mbhs.edu/)), I was a member and later co-captain of the [Blair Math Team](https://twitter.com/mbhsmathteam?lang=en). For our weekly lectures (and random other reasons), I wrote up notes on various math topics, with a specific focus on audience participation and making learning fun. Some highlights are listed below:
+During high school ([Montgomery Blair HS](https://mbhs.edu/)), I was a member and later co-captain of the [Blair Math Team](https://twitter.com/mbhsmathteam?lang=en). During that time, I wrote up lecture notes on various math topics, with a specific focus on audience participation and making learning fun. Some highlights are listed below:
 - [Football](https://www.overleaf.com/read/tpjyrjdkywnv)
 - [Large Number Game](https://www.overleaf.com/read/skwwxmnqcftz)
 
@@ -55,5 +55,5 @@ During high school ([Montgomery Blair HS](https://mbhs.edu/)), I was a member an
 During Fall 2020, I worked with fellow Magnet alumni [Laura Cui](https://reionize.github.io/) and [Steven Qu](http://www.xrsqu.com/) to design and take a survey of students' experiences in the STEM Magnet program. Our results are available [here](https://drive.google.com/drive/folders/1oLIlN4I1W-nN9r-OgZGWCubeCtivVRLK?usp=sharing), or see the [Magnet Foundation press release](https://www.mbhsmagnet.org/news/fall20/surveying-recent-alumni-and-students-on-magnet-experiences).
 
 # Miscellaneous projects
-- A [D&D campaign module](https://www.notion.so/D-D-Campaign-God-in-the-Machine-a20c74b3815841ba8ee846de45c7e80b)), designed for storytelling in the style of [TAZ Balance](https://theadventurezone.fandom.com/wiki/Campaign_1:_The_Balance_Arc)
+- A [D&D campaign module](https://www.notion.so/D-D-Campaign-God-in-the-Machine-a20c74b3815841ba8ee846de45c7e80b), designed for storytelling in the style of [TAZ Balance](https://theadventurezone.fandom.com/wiki/Campaign_1:_The_Balance_Arc)
 - [Meta-chess](https://www.overleaf.com/read/hshwfqvhtgcj), a team-based strategy game designed for a group of chess enthusiasts. I planned to organize a game at [Mathcamp](https://www.mathcamp.org/) but never got around to it :(
