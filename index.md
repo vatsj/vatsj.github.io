@@ -12,7 +12,7 @@ https://vatsj.github.io/
 # About
 Hi! I'm Jacob, a senior at [Stanford University](https://www.stanford.edu/) studying Math and Computer Science. My academic interests are broad, ranging from machine learning and software development to data science and quantitative trading. In my free time, I swim, listen to [podcasts](https://www.themcelroy.family/), and discover new and inventive ways to break my code.
 
-Here are links to my [resume](res/resume.pdf), [github](https://github.com/vatsj), and [linkedin](https://bit.ly/vatsj-linkedin).
+Here are links to my [resume](res/resume.pdf), [github](https://github.com/vatsj), and [linkedin](https://bit.ly/vatsj-linkedin). You can leave me anonymous feedback [here](https://www.admonymous.co/vatsj).
 
 # Work Experience
 During Summer 2022, I interned with [Jane Street](https://www.janestreet.com/) and ~~played [figgie](https://figgie.com/) all day~~ used a diverse software suite (python, excel, bloomberg, SQL) to research and develop trading strategies.
