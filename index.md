@@ -31,7 +31,7 @@ In 2018, I participated in the [University of Maryland REU Program](http://www.c
 During Winter and Spring 2021, I researched the Outer AI Alignment problem under the mentorship of [Alex Turner](https://www.linkedin.com/in/alexandermattturner/), extending Turner's definition of [POWER](https://www.lesswrong.com/s/7CdoznhJaLEKHwvJW/p/6DuJxY8X45Sco4bS2) to multi-agent games. I presented at the [Winter](https://docs.google.com/presentation/d/1VXlzPB9OGyiNbS4-hkJArUdtocKn1hp8x3Ig17wQ_dI/edit?usp=sharing) and [Spring](https://docs.google.com/presentation/d/1pvcZfX3rDiwUdbZlsI4R2uHRpbuuLFwL27xk-6LKRpU/edit?usp=sharing) SERI conferences and coauthored several [blog posts](https://www.lesswrong.com/users/midco) as informal writeups.
 
 ## Stanford DRP
-During Winter 2019-20, I studied Algebraic Topology ([Hatcher](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf)) under the mentorship of [Joseph Helfer](http://web.stanford.edu/~joj/). I also gave a talk presenting the topic to undergraduate students ([slides](https://docs.google.com/presentation/d/10HAyP_gTQvZOSyaA1bIC1VgTaTGF1c6Ry8QnohF-6VM/edit?usp=sharing)).
+During Winter 2019-20, I studied Algebraic Topology ([Hatcher](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf)) under the mentorship of [Joseph Helfer](https://www.jojhelfer.com/). I also gave a talk presenting the topic to undergraduate students ([slides](https://docs.google.com/presentation/d/10HAyP_gTQvZOSyaA1bIC1VgTaTGF1c6Ry8QnohF-6VM/edit?usp=sharing)).
 
 <!-- # Projects
 
