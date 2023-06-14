@@ -10,7 +10,7 @@ https://vatsj.github.io/
  -->
 
 # About
-Hi! I'm Jacob, a senior at [Stanford University](https://www.stanford.edu/) studying Math and Computer Science. My academic interests are broad, ranging from machine learning and software development to data science and quantitative trading. In my free time, I swim, listen to [podcasts](https://www.themcelroy.family/), and discover new and inventive ways to break my code.
+Hi! I’m Jacob, a Masters' student at [Stanford University](https://www.stanford.edu/) studying Artificial Intelligence. My academic interests are broad but roughly center on understanding ML systems through their applications. Among my many hobbies, I enjoy sports, cooking, [D&D podcasts](https://www.themcelroy.family/), and abusing LLMs.
 
 Here are links to my [resume](res/resume.pdf), [github](https://github.com/vatsj), and [linkedin](https://bit.ly/vatsj-linkedin). You can leave me anonymous feedback [here](https://www.admonymous.co/vatsj).
 
