@@ -18,7 +18,7 @@ Here are links to my [resume](res/resume.pdf), [github](https://github.com/vatsj
 
 This past summer (2024), I was a Visiting Researcher at the [Alignment Research Center](https://www.alignment.org/theory/), where I formalized a [surprise account](https://www.lesswrong.com/posts/SyeQjjBoEC48MvnQC/formal-verification-heuristic-explanations-and-surprise) of the Linear Argmax model. You can find the writeup [here](https://drive.google.com/file/d/1ww865Rb6WJ-T9zqIb9tXfyGNw6XfoVi7/view?usp=sharing).
 
-In 2023, I was a Research Fellow at the [Existential Risks Alliance](https://erafellowship.org/), where I investigated [Contrast-Consistent Search](https://arxiv.org/abs/2212.03827) as a detector of LLM Truthfulness under the mentorship of [Tilman Rauker](https://www.raeuker.com/). I've since continued and expanded this research direction at Stanford under the mentorship of Prof. Vasilis Syrgkanis.
+In 2023, I was a Research Fellow at the [Existential Risks Alliance](https://erafellowship.org/), where I investigated [Contrast-Consistent Search](https://arxiv.org/abs/2212.03827) as a detector of LLM Truthfulness under the mentorship of [Tilman Rauker](https://www.raeuker.com/). I've since continued and expanded this research direction at Stanford under the mentorship of Prof. [Vasilis Syrgkanis](https://vsyrgkanis.com/).
 
 In 2022, I interned with [Jane Street](https://www.janestreet.com/) and ~~played [figgie](https://figgie.com/) all day~~ used a diverse software suite (python, excel, bloomberg, SQL) to research and develop trading strategies.
 
@@ -47,7 +47,7 @@ As a [MBMBAM](https://maximumfun.org/podcasts/my-brother-my-brother-and-me/) enj
 To help my friends in a discord server set personal goals, I coded a [bot](https://github.com/vatsj/commitment-bot) to let users set and evaluate time-bound goals.
 
 <!-- ## D&D Campaign
-I got bored one day and wrote the outline for a Dungeons & Dragons campaign, which you can read [here](https://www.notion.so/D-D-Campaign-God-in-the-Machine-a20c74b3815841ba8ee846de45c7e80b). Taking inspiration from [TAZ Balance](https://theadventurezone.fandom.com/wiki/Campaign_1:_The_Balance_Arc), my outline plays fast and loose with D&D structure/mechanics in favor of a storytelling-centric approach. --> -->
+I got bored one day and wrote the outline for a Dungeons & Dragons campaign, which you can read [here](https://www.notion.so/D-D-Campaign-God-in-the-Machine-a20c74b3815841ba8ee846de45c7e80b). Taking inspiration from [TAZ Balance](https://theadventurezone.fandom.com/wiki/Campaign_1:_The_Balance_Arc), my outline plays fast and loose with D&D structure/mechanics in favor of a storytelling-centric approach. -->
 
 ## Gamer-bot
 In an effort to teach myself Reinforcement Learning techniques through game-playing, I wrote a [general framework](https://github.com/vatsj/gamer-bot) for algorithmic multiplayer game-playing. Alice (my alpha-beta pruning algorithm with clever tweaks, named in honor of cryptographic legends Alice and Bob) can tie me at tic-tac-toe, but not at chess.
