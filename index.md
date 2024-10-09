@@ -41,7 +41,7 @@ During Winter 2019-20, I studied Algebraic Topology ([Hatcher](https://pi.math.c
 # Projects
 
 ## Level 9001
-As a [MBMBAM](https://maximumfun.org/podcasts/my-brother-my-brother-and-me/) enjoyer, I have dearly missed the departed Yahoo! Answers QA service. To remedy this, I find=tuned a language model to simulate the [answers](https://mbmbam.fandom.com/wiki/List_of_Final_Yahoo!s) submitted to the podcast.
+As a [MBMBAM](https://maximumfun.org/podcasts/my-brother-my-brother-and-me/) enjoyer, I have dearly missed the departed Yahoo! Answers QA service. To remedy this, I fine-tuned a language model to simulate the [answers](https://mbmbam.fandom.com/wiki/List_of_Final_Yahoo!s) submitted to the podcast.
 
 ## Commitment-bot
 To help my friends in a discord server set personal goals, I coded a [bot](https://github.com/vatsj/commitment-bot) to let users set and evaluate time-bound goals.
