@@ -1,19 +1,15 @@
-# My personal website!
+# vatsj.github.io
 
-Meant primarily to host my resume/CV/jobby stuff, also a nice place to store personal projects.
+Personal website. Static HTML/CSS/JS — no build step required.
 
-The site is built using [github pages](https://pages.github.com/) using the "cayman" theme. See their documentation for a better description than this one.
+## Local development
 
-## Dependencies
-- Jekyll (https://jekyllrb.com/, requires ruby install)
-- Bundler (https://bundler.io/, recommended to simplify Jekyll interfacing)
+```sh
+python3 -m http.server
+```
 
-You may also have to install gems (via Ruby) and call `bundle install`.
+Then open http://localhost:8000.
 
-## How to run
-To run, use the following shell command:
-> bundle exec jekyll serve
+## Blog
 
-Alternatively, you can use raw Jekyll (instead of using bundle as a wrapper) with the following commands
-> jekyll build
-> jekyll serve
+Add a `.md` file to `blog/`, then add an entry to `blog/index.json`.

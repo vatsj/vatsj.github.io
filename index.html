@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jacob Stavrianos</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Jacob Stavrianos</h1>
+    <p class="tagline">A Compendium of the Self</p>
+    <nav>
+      <button data-tab="about" class="active">About</button>
+      <button data-tab="resume">Resume</button>
+      <button data-tab="projects">Projects</button>
+      <button data-tab="blog">Blog</button>
+    </nav>
+  </header>
+
+  <main>
+    <section id="about" class="tab-content active">
+      <div class="definition">
+        <span class="def-word">stan</span>
+        <span class="def-pos">noun</span>
+        <span class="def-text">to support enthusiastically</span>
+      </div>
+      <p>
+        I'm Jacob, a Research Scientist at the <a href="https://vals.ai">Vals AI</a>.
+        I live in San Francisco and stan the  <a href="https://sanfranciscorunningclub.com/"> SF Run Club</a>.
+        I also love podcasts and stan the <a href="https://www.themcelroy.family/"> McElroy family</a>.
+      </p>
+
+      <div class="links-row">
+        <a href="https://github.com/vatsj">GitHub</a>
+        <a href="https://www.linkedin.com/in/jacob-stavrianos-aa88491a5/">LinkedIn</a>
+        <a href="mailto:jacobstavrianos@gmail.com">Email</a>
+      </div>
+
+    </section>
+
+    <section id="projects" class="tab-content">
+      <div class="entry">
+        <div class="entry-header"><strong><a href="https://www.notion.so/D-D-Campaign-God-in-the-Machine-a20c74b3815841ba8ee846de45c7e80b">D&amp;D Campaign</a></strong></div>
+        <p>A campaign module designed for storytelling in the style of <a href="https://theadventurezone.fandom.com/wiki/Campaign_1:_The_Balance_Arc">TAZ Balance</a>.</p>
+      </div>
+      <div class="entry">
+        <div class="entry-header"><strong><a href="https://www.overleaf.com/read/hshwfqvhtgcj">Meta-chess</a></strong></div>
+        <p>A team-based strategy game designed for chess enthusiasts.</p>
+      </div>
+      <div class="entry">
+        <div class="entry-header"><strong><a href="https://drive.google.com/drive/folders/1oLIlN4I1W-nN9r-OgZGWCubeCtivVRLK?usp=sharing">Magnet Survey</a></strong></div>
+        <p>Surveyed students' experiences in the STEM Magnet program. <a href="https://www.mbhsmagnet.org/news/fall20/surveying-recent-alumni-and-students-on-magnet-experiences">Press release</a>.</p>
+      </div>
+    </section>
+
+    <section id="resume" class="tab-content">
+      <h2>Internship Experience</h2>
+
+      <div class="entry">
+        <div class="entry-header">
+          <strong><a href="https://www.alignment.org/theory/">Alignment Research Center</a></strong>
+          <span class="date">2024</span>
+        </div>
+        <p>Formalized a <a href="https://www.lesswrong.com/posts/SyeQjjBoEC48MvnQC/formal-verification-heuristic-explanations-and-surprise">surprise account</a> of the Linear Argmax model (<a href="https://drive.google.com/file/d/1ww865Rb6WJ-T9zqIb9tXfyGNw6XfoVi7/view?usp=sharing">Writeup</a>)</p>
+      </div>
+
+      <div class="entry">
+        <div class="entry-header">
+          <strong><a href="https://erafellowship.org/">Existential Risks Alliance</a></strong>
+          <span class="date">2023</span>
+        </div>
+        <p>Investigated <a href="https://arxiv.org/abs/2212.03827">Contrast-Consistent Search</a> as a detector of LLM Truthfulness under <a href="https://www.raeuker.com/">Tilman Rauker</a>. Continued this research at Stanford under Prof. <a href="https://vsyrgkanis.com/">Vasilis Syrgkanis</a>.</p>
+      </div>
+
+      <div class="entry">
+        <div class="entry-header">
+          <strong><a href="https://www.janestreet.com/">Jane Street</a></strong>
+          <span class="date">2022</span>
+        </div>
+        <p>Used a diverse software suite (Python, Excel, Bloomberg, SQL) to research and develop trading strategies.</p>
+      </div>
+
+      <div class="entry">
+        <div class="entry-header">
+          <strong><a href="https://fiverings.com/">Five Rings Capital</a></strong>
+          <span class="date">2021</span>
+        </div>
+        <p>Researched under the mentorship of a full-time quant and competed in proprietary training games.</p>
+      </div>
+
+      <div class="entry">
+        <div class="entry-header">
+          <strong><a href="https://openproof.gradegrinder.net/">Openproof Foundation</a></strong>
+          <span class="date">2020</span>
+        </div>
+        <p>Developed a Node.js frontend for mathematical logic courseware.</p>
+      </div>
+
+      <div class="entry">
+        <div class="entry-header">
+          <strong><a href="https://www.asranalytics.com/">ASR Analytics</a></strong>
+          <span class="date">2019</span>
+        </div>
+        <p>Developed a graph-based recommender engine to inform IRS tax compliance interventions.</p>
+      </div>
+
+      <div class="entry">
+        <div class="entry-header">
+          <strong><a href="http://www.cs.umd.edu/projects/reucaar/index.html">University of Maryland</a></strong>
+          <span class="date">2018</span>
+        </div>
+        <p>Researched a finite graph approach to the Hadwiger-Nelson problem. <a href="https://arxiv.org/abs/2008.07987">Paper</a> published in <a href="https://geombina.uccs.edu/past-issues/volume-xxxii">Geombinatorics</a>.</p>
+      </div>
+    </section>
+
+    <section id="blog" class="tab-content">
+      <div id="blog-list"></div>
+      <div id="blog-post" hidden>
+        <button id="blog-back">&larr; Back to posts</button>
+        <article id="blog-post-content"></article>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <span>&copy; 2025 Jacob Stavrianos</span>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
