@@ -139,9 +139,24 @@ main {
 
 .links-row {
   display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-  margin-top: 1rem;
+  gap: 1.25rem;
+  margin-top: 1.25rem;
+}
+
+.links-row a {
+  color: var(--text-muted);
+  transition: color 0.15s;
+}
+
+.links-row a:hover {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.links-row svg {
+  width: 22px;
+  height: 22px;
+  display: block;
 }
 
 .entry {
