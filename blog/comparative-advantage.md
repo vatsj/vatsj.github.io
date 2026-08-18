@@ -14,4 +14,6 @@ Today, we have lots of AI, and not much to do with it. I have a few million toke
 
 ## Drop the "comparative"
 
-So, the skeptica reader may ask, what can I do that Claude can't, even with all those tokens? Well, the software developer might reply, a lotta soft judgment skills. Right now, humans have not only comparative advantage but straight-up *advantage* - I can do stuff Claude just can't.
+So, the skeptica reader may ask, what can I do that Claude can't, even with all those tokens? Well, the software developer might reply, a lotta soft judgment skills. Right now, humans have not only comparative advantage but straight-up *advantage* - I can do stuff Claude just can't. From the blog post:
+> The term for “who can do a thing better” is “competitive advantage”, or “absolute advantage”.
+I posit it's what really matters here.
