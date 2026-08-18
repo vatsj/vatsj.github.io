@@ -1,3 +1,0 @@
-# example post
-
-example post

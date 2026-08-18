@@ -1,8 +1,14 @@
 [
   {
-    "slug": "example",
-    "title": "Example Post",
-    "date": "2025-05-06",
-    "file": "example.md"
+    "slug": "comparative-advantage",
+    "title": "on comparative advantages of humans over AI",
+    "date": "2026-08-18",
+    "file": "comparative-advantage.md"
+  },
+  {
+    "slug": "manufacturing-demand",
+    "title": "manufacturing demand",
+    "date": "2026-08-18",
+    "file": "manufacturing-demand.md"
   }
 ]
